@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "StoreInputAction",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "562e0854-35ae-4ed3-82e7-26fa15bf91c9",
+            "actions": [
+                {
+                    "name": "Shopping",
+                    "type": "Button",
+                    "id": "0d538d25-8efe-4d1c-92bb-598c3f579929",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "565e0a75-c96f-4c15-8743-f6b39bb64a54",
+                    "path": "<Keyboard>/f",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shopping",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
